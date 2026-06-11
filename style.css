@@ -1,0 +1,24 @@
+body {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+}
+
+input {
+    padding: 10px;
+    font-size:medium;
+}
+
+
+h1{
+    color: blue;
+
+}
+
+button {
+    padding: 10px;
+    background-color:beige;
+    color: black;
+}
+
